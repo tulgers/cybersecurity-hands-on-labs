@@ -6,7 +6,7 @@ Every lab in this repo is something I ran myself, in my own lab, and wrote up th
 
 ## How I learn
 
-Simple first, then technical depth — and always from the **attacker's perspective**, step by step, so the detection makes sense. Key terms are given in English, with the Turkish term alongside where it helps me learn.
+Simple first, then technical depth — and always from the **attacker's perspective**, step by step, so the detection makes sense.
 
 ## Lab environment
 
